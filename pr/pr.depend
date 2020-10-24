@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603497351 source:c:\users\crist\documents\c\pr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"dataStore.h"
+
+1603492027 c:\users\crist\documents\c\pr\datastore.h
+
